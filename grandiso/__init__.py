@@ -637,4 +637,3 @@ def find_motifs(
         return results_count
     print("results",results)
     return results
-
